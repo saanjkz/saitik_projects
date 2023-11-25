@@ -1,9 +1,5 @@
----
-layout: default
----
-
 ## Welcome to another page
 
-_yay_
+_Проверка перехода на другие страницы_ 
 
 [back](./)
