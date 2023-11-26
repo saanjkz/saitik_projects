@@ -1,5 +1,3 @@
-## Welcome to another page
-
 # Скачать
 
 Скачать игру лабиринт
