@@ -11,7 +11,9 @@
 
 Скачать игру лабиринт
 
-[(0.0.3) Скачать (Последняя)](https://drive.google.com/file/d/1Bi4ipF5Yj5zVzXwqo8-K4_YzGrqqnOe-/view?usp=drive_link).
+[(0.0.3) Скачать](https://github.com/saanjkz/saitik_projects/blob/master/Labirint.rar).
+
+[Зеркало](https://drive.google.com/file/d/1Bi4ipF5Yj5zVzXwqo8-K4_YzGrqqnOe-/view?usp=drive_link).
 
 [(0.0.2) Скачать (Недоступно)]().
 
